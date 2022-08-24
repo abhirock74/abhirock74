@@ -16,7 +16,6 @@ Skills: HTML / CSS / JS/ nodejs/expressjs/ reactjs/ bootstarp
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhirock74)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhirock74) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhirock74&show_icons=true) 
 
