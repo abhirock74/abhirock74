@@ -23,6 +23,4 @@ Skills: HTML / CSS / JS/ nodejs/expressjs/ reactjs/ bootstarp
 
 ![GitHub metrics](https://metrics.lecoq.io/abhirock74)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhirock74)  
-
  
