@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/abhirock74) 
 ### Hi there 👋, This is Abhishek Kumar
-Skills: HTML / CSS / JS/ nodejs/expressjs/ reactjs/ bootstarp / tailwindcss /MongoDB / SQL /....
+Skills: HTML / CSS / JS/ nodejs/expressjs/ reactjs/ Python /bootstarp / tailwindcss /MongoDB / SQL /....
 
 - 🔭 I’m currently working on Suvaidyam 
 - 🌱 I’m currently learning Full Stack  MEAN Developer 
