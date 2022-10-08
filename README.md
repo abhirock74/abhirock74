@@ -21,7 +21,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Vs Code](https://img.shields.io/badge/VS%20Code-%23323330.svg?style=for-the-badge&logo=visualstudio&logoColor=%23007ACC)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 
 - 🔭 I’m currently working on Suvaidyam 
 - 🌱 I’m currently learning Full Stack  MEAN Developer 
