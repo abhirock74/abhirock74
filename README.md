@@ -1,6 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/abhirock74) 
 # Hi there 👋, This is Abhishek Kumar
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Abhishek+Kumar!;Learning+Full Stack+Development...👨🏻‍💻;" style="width: 100%;">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Abhishek+Kumar!;Learning+Full+Stack+Development...👨🏻‍💻;" style="width: 100%;"/>
+
 # 💻 Tech Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![css](https://img.shields.io/badge/css-%23430098.svg?style=for-the-badge&logo=CSS3&logoColor=%ffffff)
