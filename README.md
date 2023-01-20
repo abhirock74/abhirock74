@@ -1,6 +1,4 @@
 ![Profile views](https://gpvc.arturio.dev/abhirock74) 
-
-### Hi there 👋
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Abhishek+Kumar!;Learning+Full+Stack+Development...👨🏻‍💻;" style="width: 100%;"/>
 
 # 💻 Tech Skills:
