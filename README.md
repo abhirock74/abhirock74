@@ -41,7 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirock74)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/abhirock74)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/abhirock74)   -->
 
 <h2>Connect with me at:</h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
 <a href="https://www.linkedin.com/in/abhirock74/" >
