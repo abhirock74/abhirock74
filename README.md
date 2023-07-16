@@ -1,4 +1,6 @@
- ![Profile views](https://gpvc.arturio.dev/abhirock74)
+ <!-- ![Profile views](https://gpvc.arturio.dev/abhirock74) -->
+ ![](https://komarev.com/ghpvc/?username=abhirock74&color=red)
+ 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Abhishek+Kumar!;Full+Stack+Developer...👨🏻‍💻;" style="width: 100%;"/>
 
 # 💻 Tech Skills:
