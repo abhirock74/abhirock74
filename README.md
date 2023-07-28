@@ -52,8 +52,8 @@
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.facebook.com/abhirock74">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
-<a href="https://www.instagram.com/abhirock_74/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
-<a href="https://www.youtube.com/c/abhirock74">
+<a href="https://www.instagram.com/the_abhirock74/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
+<a href="https://www.youtube.com/c/dev_abhirock74">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
 
 
