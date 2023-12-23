@@ -1,7 +1,7 @@
  <!-- ![Profile views](https://gpvc.arturio.dev/abhirock74) -->
  ![](https://komarev.com/ghpvc/?username=abhirock74&color=red)
  
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Abhishek+Kumar!;Full+Stack+Developer...👨🏻‍💻;" style="width: 100%;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Abhishek+Kumar!;Full+Stack+Developer...👨🏻‍💻;Frappe+Developer...👨🏻‍💻;" style="width: 100%;"/>
 
 # 💻 Tech Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
