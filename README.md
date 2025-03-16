@@ -31,12 +31,9 @@ I am a dedicated **Full Stack Developer** with a specialization in **Frappe Deve
 
 ## 📊 GitHub Stats:
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhirock74)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirock74&layout=compact&hide=html,css)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhirock74&theme=dracula)
 
----
-
-## 🏆 Achievements:
-[![GitHub Activity](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)](https://archiveprogram.github.com/)
-[![Developer Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)](https://docs.github.com/en/developers)
 
 ---
 
