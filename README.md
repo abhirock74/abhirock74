@@ -7,7 +7,7 @@
 I am a dedicated **Full Stack Developer** with a specialization in **Frappe Development**. My expertise lies in building robust applications using the **MEAN stack** (MongoDB, Express.js, Angular, Node.js), as well as **React.js** for dynamic user interfaces. I am well-versed in backend development, cloud services, and modern web technologies.
 
 ### 🔭 Current Projects:
-- Currently working on **Suvaidyam**, a web application focused on [describe the project briefly].
+- Currently working on **Suvaidyam**.
 - Improving my skills in **Full Stack MEAN Development**, with a focus on integrating backend systems with frontend technologies.
 
 ### 🌱 Areas of Expertise:
